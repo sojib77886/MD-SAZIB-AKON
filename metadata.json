@@ -1,0 +1,6 @@
+{
+  "name": "হিসাব-খাতা - মাসিক আয়-ব্যয় ট্র্যাকার ও বাজেট",
+  "description": "নিরাপদ, বায়োমেট্রিক ও এন্ড-টু-এন্ড এনক্রিপ্টেড বাংলা মাসিক খরচ ও আয় ট্র্যাকার, বাজেট অ্যালার্ট, বার্ষিক রিপোর্ট ও অফলাইন সাপোর্ট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
